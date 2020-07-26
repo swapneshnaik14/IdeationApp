@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901861991215",
+    "firebase_url": "https://idea-thon.firebaseio.com",
+    "project_id": "idea-thon",
+    "storage_bucket": "idea-thon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901861991215:android:8fc6484c805b582d25f7da",
+        "android_client_info": {
+          "package_name": "com.nestle.retailerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901861991215-jkvjqu0c774rpkf3loo5hrhoe5utneto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nestle.retailerapp",
+            "certificate_hash": "5ab4dd0bf11d6c95dea33be126926945b4fba994"
+          }
+        },
+        {
+          "client_id": "901861991215-9vllijek9oc8h6k9gs2dohcr9ifdrmcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3OH7SLdhWnHLlO2_wi-B6FaZR_AJoyXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901861991215-9vllijek9oc8h6k9gs2dohcr9ifdrmcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Retailer App</string>
+    <string name="login_to_nestle">Login to Nestle</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_now"><u>Register Now</u></string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="register_to_nestle">Register to Nestle</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="login_now"><u>Login Now</u></string>
+    <string name="full_name">Full Name</string>
+    <string name="products_list">Products List</string>
+    <string name="products_summary">Products Summary</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="product_count">Product Count</string>
+    <string name="add_products">Add Products</string>
+    <string name="submit">Submit</string>
+    <string name="no_products_selected">No Products Selected</string>
+</resources>
